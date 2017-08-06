@@ -1,2 +1,0 @@
-# ESA_CCenter_Practice
-ESA_CCenter_Practice
